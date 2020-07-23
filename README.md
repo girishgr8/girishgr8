@@ -11,7 +11,7 @@
 😄 Pronouns: He / Him
 
 📫 How to reach me : 
- - [**LinkedIn**](https://linkedin.com/in/girish-thatte) <a href="https://linkedin.com/in/girish-thatte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="girish-thatte" height="20" width="20" /></a>
+ - [**LinkedIn**](https://linkedin.com/in/girish-thatte) <a href="https://linkedin.com/in/girish-thatte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="girish-thatte" height="20" width="20" /></a>
  - [**Portfolio**](http://girish.surge.sh/)
 
 ⚡ Fun fact : **Chai**
