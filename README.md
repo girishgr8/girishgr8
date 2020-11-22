@@ -12,6 +12,6 @@
 
 📫 How to reach me : 
  - [**LinkedIn**](https://linkedin.com/in/girish-thatte) <a href="https://linkedin.com/in/girish-thatte" target="_blank"></a>
- - [**Portfolio**](http://girish.surge.sh/)
+ - [**Portfolio**](http://girish.github.io/)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=girishgr8&show_icons=true&count_private=true&theme=algolia" alt="Girish's stats card"/> </p>
