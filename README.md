@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girish Thatte</h1>
-<h3 align="center">I am a Final Year B.Tech Computer Science undergrad at K. J. Somaiya College of Engineering. I am interested in Web Development, Native App Development and Deep Learning. I am experienced in Java, Python, Javascript. I have worked with Flask, Django, Angular, Flutter frameworks and MySQL, PostgreSQL, MongoDB, Firebase databases and good experience in Selenium Framework. </h3>
+<h3 align="center">I am working as an Associate Consultant at Oracle Financial Services Software. I have completed my B.Tech in Computer Engineering from K. J. Somaiya College of Engineering. I have strong foundation of core CS concepts and I have qualified GATE CS 2021 with AIR 1748. I am interested in Problem Solving and Backend Development. I am experienced in Java, Python, Javascript. I have worked with Flask, Django, Angular, Flutter frameworks and MySQL, PostgreSQL, MongoDB, Firebase databases and good experience in Selenium Framework. </h3>
 
 💬 **Ask me about**
   - Java
@@ -7,8 +7,6 @@
   - Javascript
   - Selenium
   - Flutter
-
-😄 Pronouns: He / Him
 
 📫 How to reach me : 
  - [**LinkedIn**](https://linkedin.com/in/girish-thatte) <a href="https://linkedin.com/in/girish-thatte" target="_blank"></a>
