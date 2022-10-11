@@ -5,8 +5,8 @@
   - Java
   - Python
   - Javascript
+  - Flask
   - Selenium
-  - Flutter
 
 📫 How to reach me : 
  - [**LinkedIn**](https://linkedin.com/in/girish-thatte) <a href="https://linkedin.com/in/girish-thatte" target="_blank"></a>
