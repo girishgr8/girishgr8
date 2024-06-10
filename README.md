@@ -3,7 +3,7 @@
 
 ### I am Girish Thatte, pursuing my M.Tech in Computer Science & Engineering at IIT Hyderabad.
 
-- 🔭 Currently, I am the Tech Cell Manager of Placement Cell i.e. Office Of Career Services, IIT Hyderabad.
+- 🔭 I was the Tech Cell Manager of Placement Cell i.e. Office Of Career Services, IIT Hyderabad.
 - 🥇 Received the Academic Excellence Award at IIT Hyderabad for getting the highest GPA in M.Tech CSE for 2022.
 - 🔭 Worked as an Associate Consultant at Oracle Financial Services Software for 1 year.
 - 🥉 Completed my B.Tech in Computer Engineering at K.J. Somaiya College of Engineering, Mumbai, India, with a 9.46/10 CGPA, was among the top 10 students from a batch of 140 students.
