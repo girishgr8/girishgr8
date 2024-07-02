@@ -1,8 +1,9 @@
 ## Hi there, Welcome to my Github Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### I am Girish Thatte, pursuing my M.Tech in Computer Science & Engineering at IIT Hyderabad.
+### I am Girish Thatte, an upcoming Software Engineer at Qualcomm and an IITian.
 
+- 🎓 Completed my M.Tech in Computer Science & Engineering from IIT Hyderabad.
 - 🔭 I was the Tech Cell Manager of Placement Cell i.e. Office Of Career Services, IIT Hyderabad.
 - 🥇 Received the Academic Excellence Award at IIT Hyderabad for getting the highest GPA in M.Tech CSE for 2022.
 - 🔭 Worked as an Associate Consultant at Oracle Financial Services Software for 1 year.
